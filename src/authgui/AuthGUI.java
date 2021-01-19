@@ -7,6 +7,7 @@ import java.security.MessageDigest;
 import java.math.BigInteger;
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.security.NoSuchAlgorithmException;
 import java.util.*;
 
 public class AuthGUI extends javax.swing.JFrame {
@@ -31,7 +32,7 @@ public class AuthGUI extends javax.swing.JFrame {
 		hashtext = "0" + hashtext;
 	    }
 	    return hashtext;
-	} catch (Exception e) {
+	} catch (NoSuchAlgorithmException e) {
 	    return "Digest Algorithm Error";
 	}
     }
@@ -168,6 +169,7 @@ public class AuthGUI extends javax.swing.JFrame {
     //Exit button action
     private void ExitActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitActionPerformed
         System.exit(0);
+        
     }//GEN-LAST:event_ExitActionPerformed
     
     //public count variable declaration
@@ -199,12 +201,12 @@ public class AuthGUI extends javax.swing.JFrame {
         credentialScnr.useDelimiter("\t"); //Implement delimiter
         
         //Credentials matching and job position loops
-        String jobPosition = "";
+        
         while (credentialScnr.hasNextLine()){
             String credentialInfo = credentialScnr.nextLine();
             String credentialList[] = credentialInfo.split("\t"); //Ignore tab space within credential file
             if(credentialList[0].equals(username) && credentialList[1].equals(password)){
-                jobPosition = credentialList[3];
+                String jobPosition = credentialList[3];
                 validity = true;
                 switch(jobPosition){
                     case "admin":
@@ -235,10 +237,8 @@ public class AuthGUI extends javax.swing.JFrame {
     //Main method
     public static void main(String args[]) {
         //Launch Authentication Form
-        java.awt.EventQueue.invokeLater(new Runnable() {
-            public void run() {
-                new AuthGUI().setVisible(true);
-            }
+        java.awt.EventQueue.invokeLater(() -> {
+            new AuthGUI().setVisible(true);
         });
         
     }
