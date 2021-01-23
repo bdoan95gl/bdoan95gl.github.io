@@ -1,7 +1,6 @@
 ## CS499 ePortfolio
 
 By: Bao Doan
-[Test Link](https://www.youtube.com)
 
 
 
@@ -13,6 +12,7 @@ Also to enhance my capability in software design and engineering, algorithms and
 This enhancement was done through NetBeans IDE and the utilization of Java swing GUI libraries.  I have implemented flowchart approach when working on this enhancement.  Where I drew out a pictorial representation of my Authentication System algorithm and work from node to node to build the project. Since this is my first time interacting with Java Swing, I have learned new techniques in developing graphical user interface.  I found that NetBeans IDE is very convenient with resizing and generating buttons.  Instead of typing in boundary values, mouse drag and drop movement could be used to resize the button to the appropriate size via NetBeans design function.  The struggling part with this enhancement is implementing MD5 hash with JLabel input.  An issue came up when I was trying to convert hashed MD5 value into string.  After couple of searches on the internet, the solution I came up with is to store byte value into BigInteger datatype and use “toString()” function to convert it to string value.  From there hashed value can be read and compared to values on credential text file.  
 
 Link to Artifact Enhancement 1 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-2)
+
 
 ### Artifact Enhancement 2
 
