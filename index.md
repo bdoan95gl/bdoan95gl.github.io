@@ -3,6 +3,7 @@
 By: Bao Doan
 
 ### Authentication System Code Review
+
 {% include videoPlayer.html id=page.youtubeId %}
 
 
@@ -13,7 +14,7 @@ The artifact I have here is an Authentication System that I have created as a fi
 Also to enhance my capability in software design and engineering, algorithms and data structure, and databases management. 
 This enhancement was done through NetBeans IDE and the utilization of Java swing GUI libraries.  I have implemented flowchart approach when working on this enhancement.  Where I drew out a pictorial representation of my Authentication System algorithm and work from node to node to build the project. Since this is my first time interacting with Java Swing, I have learned new techniques in developing graphical user interface.  I found that NetBeans IDE is very convenient with resizing and generating buttons.  Instead of typing in boundary values, mouse drag and drop movement could be used to resize the button to the appropriate size via NetBeans design function.  The struggling part with this enhancement is implementing MD5 hash with JLabel input.  An issue came up when I was trying to convert hashed MD5 value into string.  After couple of searches on the internet, the solution I came up with is to store byte value into BigInteger datatype and use “toString()” function to convert it to string value.  From there hashed value can be read and compared to values on credential text file.  
 
-Link to Artifact Enhancement 1 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-1)
+[Link to Artifact Enhancement 1](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-1)
 
 
 ### Artifact Enhancement 2
@@ -24,7 +25,7 @@ The second portion of this enhancement is adding “Create Account” function. 
 
 The reason I chose this second enhancement project because it satisfies algorithm and data structure aspect of computer science requirement.  SHA-256 hashing will touch base with algorithm side and creating account class will touch base with data structure side.  Also this second enhancement allow myself to display skills such as: articulate approach to solving complex logic, employing various data structures when constructing program, design simple object-oriented with data abstraction and information hiding, implementation of hashing algorithm, usage of software libraries, compilers, editors, and debuggers to produce effective software, and display understanding of essential semantic structures of programming language such as values, types, storage, control flow, and etc.
 
-Link to Artifact Enhancement 2 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-2)
+[Link to Artifact Enhancement 2](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-2)
 
 ### Artifact Enhancement 3
 
@@ -32,4 +33,4 @@ For this third enhancement, I have implemented database storage instead of text 
 
 The reason I chose this third enhancement is to display my ability in implement approach to ensure data are explicitly validated, implementation of database, display mySQL techniques CRUDs and query concepts, implementation of java to database cross platform, arrays and control structures with database, and implementation of external database software such Xampp and PHP.
 
-Link to Artifact Enhancement 3 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
+[Link to Artifact Enhancement 3](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
