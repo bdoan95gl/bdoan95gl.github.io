@@ -3,7 +3,7 @@
 By: Bao Doan
 
 ### Authentication System Code Review
-{%videoPlayer.html%}
+{% include videoPlayer.html id=page.youtubeId %}
 
 
 ### Artifact Enhancement 1
