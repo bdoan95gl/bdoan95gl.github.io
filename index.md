@@ -1,10 +1,13 @@
+---
+videoId: putYourIDHere
+---
 ## CS499 ePortfolio
 
 By: Bao Doan
 
 ### Authentication System Code Review Video
 
-{% include videoPlayer.html id=page.youtubeId %}
+{% include videoPlayer.html id=page.videoId %}
 
 
 
