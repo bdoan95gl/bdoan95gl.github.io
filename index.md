@@ -30,4 +30,4 @@ For this third enhancement, I have implemented database storage instead of text 
 
 The reason I chose this third enhancement is to display my ability in implement approach to ensure data are explicitly validated, implementation of database, display mySQL techniques CRUDs and query concepts, implementation of java to database cross platform, arrays and control structures with database, and implementation of external database software such Xampp and PHP.
 
-Link to Artifact Enhancement 2 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
+Link to Artifact Enhancement 3 -> [Click Here](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
