@@ -8,7 +8,7 @@ By: Bao Doan
 
 ### Artifact Enhancement 1
 
-[Link to Artifact Enhancement 1](https://github.com/bdoan95gl/bdoan95gl.github.io/blob/main/artifact1.md)
+[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact1)
 
 
 ### Artifact Enhancement 2
@@ -19,7 +19,7 @@ The second portion of this enhancement is adding “Create Account” function. 
 
 The reason I chose this second enhancement project because it satisfies algorithm and data structure aspect of computer science requirement.  SHA-256 hashing will touch base with algorithm side and creating account class will touch base with data structure side.  Also this second enhancement allow myself to display skills such as: articulate approach to solving complex logic, employing various data structures when constructing program, design simple object-oriented with data abstraction and information hiding, implementation of hashing algorithm, usage of software libraries, compilers, editors, and debuggers to produce effective software, and display understanding of essential semantic structures of programming language such as values, types, storage, control flow, and etc.
 
-[Link to Artifact Enhancement 2](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-2)
+[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact3)
 
 ### Artifact Enhancement 3
 
@@ -27,4 +27,4 @@ For this third enhancement, I have implemented database storage instead of text 
 
 The reason I chose this third enhancement is to display my ability in implement approach to ensure data are explicitly validated, implementation of database, display mySQL techniques CRUDs and query concepts, implementation of java to database cross platform, arrays and control structures with database, and implementation of external database software such Xampp and PHP.
 
-[Link to Artifact Enhancement 3](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
+[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact3)
