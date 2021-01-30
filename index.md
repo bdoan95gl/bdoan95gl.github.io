@@ -4,7 +4,7 @@ By: Bao Doan
 
 ### Authentication System Code Review Video
 
-{% include videoPlayer.html id=page.youtubeId %}
+{%videoPlayer.html id=page.youtubeId %}
 
 
 ### Artifact Enhancement 1
