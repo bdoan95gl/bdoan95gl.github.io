@@ -6,7 +6,11 @@ Hello everyone, my name is Bao Doan and this ePortfolio page is created to demon
 
 ## Table of Contents Links
 [Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
+
 [Informal Code Review](https://bdoan95gl.github.io/codereview)
+
 [Artifact Enhancement 1](https://bdoan95gl.github.io/artifact1)
+
 [Artifact Enhancement 2](https://bdoan95gl.github.io/artifact2)
+
 [Artifact Enhancement 3](https://bdoan95gl.github.io/artifact3)
