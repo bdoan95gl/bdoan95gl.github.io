@@ -2,7 +2,7 @@
 videoId: lulCQJjcNxU
 ---
 
-### Artifact Enhancement 3
+# Artifact Enhancement 3
 
 ## Artifact 3 Demo Video
 {% include videoPlayer.html id=page.videoId %}
@@ -13,4 +13,19 @@ For this third enhancement, I have implemented database storage instead of text 
 
 The reason I chose this third enhancement is to display my ability in implement approach to ensure data are explicitly validated, implementation of database, display mySQL techniques CRUDs and query concepts, implementation of java to database cross platform, arrays and control structures with database, and implementation of external database software such Xampp and PHP.
 
-[Link to Artifact Enhancement 3](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
+## Repository Link
+
+[Link to Artifact Enhancement 3 Repository](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-3)
+
+## Table of Contents Links
+[Home Page](https://bdoan95gl.github.io)
+
+[Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
+
+[Informal Code Review](https://bdoan95gl.github.io/codereview)
+
+[Artifact Enhancement 1](https://bdoan95gl.github.io/artifact1)
+
+[Artifact Enhancement 2](https://bdoan95gl.github.io/artifact2)
+
+[Artifact Enhancement 3](https://bdoan95gl.github.io/artifact3)
