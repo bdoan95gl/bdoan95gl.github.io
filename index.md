@@ -1,18 +1,12 @@
----
-videoId: bV0X8nPE32A
----
-## CS499 ePortfolio
-
-By: Bao Doan
-
-### Authentication System Code Review Video
-
-{% include videoPlayer.html id=page.videoId %}
+### Welcome Page
 
 
+## About ePortfolio
+Hello everyone, my name is Bao Doan and this ePortfolio page is created to demonstrate all the skills I have learned throughout my computer science program at SNHU as well as serving as the final project for my CS499 course.  This ePortfolio include a professional self-assement, information code review of my project, and three enhancement I have made on the project with direct links toward repository.  Please check them out via the links down below.
 
-[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact1)
-
-[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact3)
-
-[Link to Artifact Enhancement 1](https://bdoan95gl.github.io/artifact3)
+## Table of Contents Links
+[Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
+[Informal Code Review](https://bdoan95gl.github.io/codereview)
+[Artifact Enhancement 1](https://bdoan95gl.github.io/artifact1)
+[Artifact Enhancement 2](https://bdoan95gl.github.io/artifact2)
+[Artifact Enhancement 3](https://bdoan95gl.github.io/artifact3)
