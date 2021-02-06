@@ -1,4 +1,13 @@
+---
+videoId: WYtAXJTa4ws
+---
+
 ### Artifact Enhancement 2
+
+## Artifact 2 Demo Video
+{% include videoPlayer.html id=page.videoId %}
+
+## Narratives
 
 For this second enhancement, I have implemented SHA-256 hashing to my program instead of MD5 hashing as well as adding “Create Account” function for my program.  Both MD5 and SHA-256 are hashing algorithm that take in input values and return a fixed-length value that have no discernable pattern.  MD5 produce 128-bit hash value while SHA-256 produce 256-bit hash value.  Current researched indicate that SHA-256 hash algorithm is considerably more secure than MD5 hash algorithm.  For my program, switching from MD5 to SHA-256 was a smooth process since Java security message digest library contains both algorithms.  I only had to replace “getInstance” value from MD5 to SHA-256.  
 
