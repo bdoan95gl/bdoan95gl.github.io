@@ -1,4 +1,4 @@
-# Welcome Page
+# Home Page
 
 
 ## About ePortfolio
