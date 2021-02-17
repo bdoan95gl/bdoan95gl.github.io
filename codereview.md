@@ -16,7 +16,7 @@ This informal code review is done based upon my original authentication system p
 {% include videoPlayer.html id=page.videoId %}
 
 
-## Table of Contents Links
+## Table of Contents
 [Home Page](https://bdoan95gl.github.io)
 
 [Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
