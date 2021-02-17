@@ -12,7 +12,7 @@ The second artifact involve hashing algorithm, data structure, and updating comp
 The third artifact involve with database and database manipulation.  The program will switch from text file data storage to database storage via locahost and SQL language.  I will be able to display my skills such as: implement approach to ensure data are explicitly validated, implementation of database, display mySQL techniques CRUDs and query concepts, implementation of java to database cross platform, arrays and control structures with database, and implementation of external database software such Xampp and PHP.
 
 
-## Table of Contents Links
+## Table of Contents
 [Home Page](https://bdoan95gl.github.io)
 
 [Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
