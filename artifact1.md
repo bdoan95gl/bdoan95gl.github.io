@@ -21,7 +21,7 @@ This enhancement was done through NetBeans IDE and the utilization of Java swing
 
 [Link to Artifact Enhancement 1 Repository](https://github.com/bdoan95gl/bdoan95gl.github.io/tree/Artifact-1)
 
-## Table of Contents Links
+## Table of Contents
 [Home Page](https://bdoan95gl.github.io)
 
 [Professional Self-Assessment](https://bdoan95gl.github.io/selfassessment)
